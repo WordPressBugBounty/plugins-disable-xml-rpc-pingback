@@ -2,7 +2,7 @@
 Contributors: samuelaguilera
 Tags: xml-rpc, xml, rpc, pingback, ddos, firewall
 Requires at least: 4.8
-Tested up to: 6.5
+Tested up to: 6.8.3
 Requires PHP: 5.6
 Stable tag: 1.2.2
 License: GPLv2
